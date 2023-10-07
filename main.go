@@ -2,6 +2,8 @@ package main
 
 import "fmt"
 
+type age int16
+
 func main() {
 	fmt.Println("This is the main function to start program")
 }
